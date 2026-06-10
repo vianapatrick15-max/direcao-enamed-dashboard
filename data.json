@@ -12,18 +12,18 @@
     "total": 390
   },
   "kpis": {
-    "inscritos": 48,
-    "leads_pagos": 40,
+    "inscritos": 51,
+    "leads_pagos": 43,
     "organico": 8,
-    "medicos": 46,
-    "pct_medico": 95.8,
+    "medicos": 49,
+    "pct_medico": 96.1,
     "spend": 6755.81,
     "impressions": 113319,
     "clicks": 532,
     "lpv": 394,
-    "cpl_real": 168.9,
+    "cpl_real": 157.11,
     "cpc": 12.7,
-    "conv_lpv_lead": 10.2,
+    "conv_lpv_lead": 10.9,
     "pct_budget_gasto": 21.8
   },
   "pace": {
@@ -31,10 +31,10 @@
     "paid_per_day": 7.8,
     "total_per_day": 9.4,
     "spend_per_day": 1287.07,
-    "need_paid_per_day": 28.6,
+    "need_paid_per_day": 28.1,
     "budget_per_day_needed": 3463.46,
-    "proj_paid": 95,
-    "proj_total": 114,
+    "proj_paid": 98,
+    "proj_total": 117,
     "proj_spend": 15765.27,
     "on_track_leads": false,
     "on_track_cpl": false
@@ -87,11 +87,11 @@
     },
     {
       "day": "2026-06-10",
-      "leads_paid": 1,
-      "leads_total": 1,
+      "leads_paid": 4,
+      "leads_total": 4,
       "spend": 320.48,
-      "cum_paid": 40,
-      "cum_total": 48,
+      "cum_paid": 43,
+      "cum_total": 51,
       "cum_spend": 6755.81
     }
   ],
@@ -99,9 +99,9 @@
     {
       "ad": "ad01_img_aristoacertou",
       "spend": 2673.58,
-      "leads": 20,
+      "leads": 21,
       "lpv": 189,
-      "cpl": 133.68
+      "cpl": 127.31
     },
     {
       "ad": "ad05_img_descubracomotransformar",
@@ -130,6 +130,20 @@
       "leads": 5,
       "lpv": 36,
       "cpl": 177.28
+    },
+    {
+      "ad": "ad06_video_enamed_luigi",
+      "spend": 0,
+      "leads": 1,
+      "lpv": 0,
+      "cpl": 0.0
+    },
+    {
+      "ad": "ad07_vid_fernanda",
+      "spend": 0,
+      "leads": 1,
+      "lpv": 0,
+      "cpl": 0.0
     }
   ]
 }

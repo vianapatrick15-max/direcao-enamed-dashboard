@@ -81,7 +81,7 @@ for r in grows:
     if len(r) > G_LPV: lpv_by_ad[ad] += num(r[G_LPV])
 
 # ---------- HUBSPOT (inscritos) ----------
-h = sh.worksheet("DADOS_HUBSPOT").get_all_values()
+h = sh.worksheet("DADOS_HUBSPOT_ENAMED").get_all_values()
 hh = {x.strip(): i for i, x in enumerate(h[0])}
 H_DATA, H_MED, H_UCAMP = hh["Data de conversão recente"], hh["É médico?"], hh["UTM Campaign"]
 H_SRC, H_CONT = hh["UTM Source"], hh["UTM Content"]
