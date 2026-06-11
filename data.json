@@ -12,18 +12,18 @@
     "total": 390
   },
   "kpis": {
-    "inscritos": 104,
-    "leads_pagos": 96,
-    "organico": 8,
-    "medicos": 100,
-    "pct_medico": 96.2,
+    "inscritos": 115,
+    "leads_pagos": 100,
+    "organico": 15,
+    "medicos": 111,
+    "pct_medico": 96.5,
     "spend": 10441.01,
     "impressions": 205850,
     "clicks": 984,
     "lpv": 716,
-    "cpl_real": 108.76,
+    "cpl_real": 104.41,
     "cpc": 10.61,
-    "conv_lpv_lead": 13.4,
+    "conv_lpv_lead": 14.0,
     "pct_budget_gasto": 33.7
   },
   "pace": {
@@ -31,10 +31,10 @@
     "paid_per_day": 13.0,
     "total_per_day": 14.3,
     "spend_per_day": 1651.51,
-    "need_paid_per_day": 24.0,
+    "need_paid_per_day": 23.3,
     "budget_per_day_needed": 3426.5,
-    "proj_paid": 174,
-    "proj_total": 190,
+    "proj_paid": 178,
+    "proj_total": 201,
     "proj_spend": 20350.07,
     "on_track_leads": false,
     "on_track_cpl": true
@@ -96,11 +96,11 @@
     },
     {
       "day": "2026-06-11",
-      "leads_paid": 18,
-      "leads_total": 18,
+      "leads_paid": 22,
+      "leads_total": 29,
       "spend": 531.95,
-      "cum_paid": 96,
-      "cum_total": 104,
+      "cum_paid": 100,
+      "cum_total": 115,
       "cum_spend": 10441.01
     }
   ],
@@ -108,9 +108,9 @@
     {
       "ad": "ad01_img_aristoacertou",
       "spend": 2967.88,
-      "leads": 22,
+      "leads": 23,
       "lpv": 205,
-      "cpl": 134.9
+      "cpl": 129.04
     },
     {
       "ad": "ad05_img_descubracomotransformar",
@@ -122,9 +122,9 @@
     {
       "ad": "ad06_vid_luigi",
       "spend": 1168.33,
-      "leads": 30,
+      "leads": 31,
       "lpv": 135,
-      "cpl": 38.94
+      "cpl": 37.69
     },
     {
       "ad": "ad02_img_mesmoerro",
@@ -157,16 +157,16 @@
     {
       "ad": "ad08_carr_nogourmet",
       "spend": 632.87,
-      "leads": 21,
+      "leads": 22,
       "lpv": 61,
-      "cpl": 30.14
+      "cpl": 28.77
     },
     {
       "ad": "ad07_vid_fernanda",
       "spend": 363.26,
-      "leads": 2,
+      "leads": 3,
       "lpv": 13,
-      "cpl": 181.63
+      "cpl": 121.09
     },
     {
       "ad": "ad07_video_enamed_v1",
