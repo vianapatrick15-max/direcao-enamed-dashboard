@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-14T12:00:00",
-  "today": "2026-06-14",
+  "updated_at": "2026-06-15T12:00:00",
+  "today": "2026-06-15",
   "event_date": "2026-06-16",
   "campaign_start": "2026-06-05",
-  "days_left": 2,
+  "days_left": 1,
   "targets": {
     "cpl": 129.0,
     "budget": 31000.0,
@@ -12,30 +12,30 @@
     "total": 390
   },
   "kpis": {
-    "inscritos": 177,
-    "leads_pagos": 152,
-    "organico": 25,
-    "medicos": 170,
-    "pct_medico": 96.0,
-    "spend": 20505.91,
-    "impressions": 605999,
-    "clicks": 3410,
-    "lpv": 2318,
-    "cpl_real": 134.91,
-    "cpc": 6.01,
-    "conv_lpv_lead": 6.6,
-    "pct_budget_gasto": 66.1
+    "inscritos": 196,
+    "leads_pagos": 169,
+    "organico": 27,
+    "medicos": 187,
+    "pct_medico": 95.4,
+    "spend": 22794.74,
+    "impressions": 707710,
+    "clicks": 4401,
+    "lpv": 2700,
+    "cpl_real": 134.88,
+    "cpc": 5.18,
+    "conv_lpv_lead": 6.3,
+    "pct_budget_gasto": 73.5
   },
   "pace": {
-    "full_days": 9,
-    "paid_per_day": 16.0,
-    "total_per_day": 18.8,
-    "spend_per_day": 2258.72,
-    "need_paid_per_day": 29.3,
-    "budget_per_day_needed": 3498.03,
+    "full_days": 10,
+    "paid_per_day": 15.7,
+    "total_per_day": 18.2,
+    "spend_per_day": 2248.18,
+    "need_paid_per_day": 35.5,
+    "budget_per_day_needed": 4102.63,
     "proj_paid": 200,
-    "proj_total": 233,
-    "proj_spend": 27282.08,
+    "proj_total": 232,
+    "proj_spend": 27291.1,
     "on_track_leads": false,
     "on_track_cpl": false
   },
@@ -116,70 +116,86 @@
       "day": "2026-06-13",
       "leads_paid": 6,
       "leads_total": 8,
-      "spend": 2279.7,
+      "spend": 2280.84,
       "cum_paid": 144,
       "cum_total": 169,
-      "cum_spend": 20328.52
+      "cum_spend": 20329.66
     },
     {
       "day": "2026-06-14",
-      "leads_paid": 8,
-      "leads_total": 8,
-      "spend": 177.39,
-      "cum_paid": 152,
-      "cum_total": 177,
-      "cum_spend": 20505.91
+      "leads_paid": 13,
+      "leads_total": 13,
+      "spend": 2152.14,
+      "cum_paid": 157,
+      "cum_total": 182,
+      "cum_spend": 22481.8
+    },
+    {
+      "day": "2026-06-15",
+      "leads_paid": 12,
+      "leads_total": 14,
+      "spend": 312.94,
+      "cum_paid": 169,
+      "cum_total": 196,
+      "cum_spend": 22794.74
     }
   ],
   "ads": [
     {
       "ad": "ad01_img_aristoacertou",
-      "spend": 5277.76,
-      "leads": 26,
-      "lpv": 619,
-      "cpl": 202.99
+      "spend": 5600.55,
+      "leads": 27,
+      "lpv": 675,
+      "cpl": 207.43
     },
     {
       "ad": "ad06_vid_luigi",
-      "spend": 3717.7,
-      "leads": 52,
-      "lpv": 418,
-      "cpl": 71.49
+      "spend": 4628.55,
+      "leads": 57,
+      "lpv": 525,
+      "cpl": 81.2
     },
     {
       "ad": "ad08_carr_nogourmet",
-      "spend": 2987.98,
-      "leads": 46,
-      "lpv": 265,
-      "cpl": 64.96
+      "spend": 3253.26,
+      "leads": 54,
+      "lpv": 310,
+      "cpl": 60.25
     },
     {
       "ad": "ad05_img_descubracomotransformar",
-      "spend": 2828.69,
+      "spend": 3089.82,
       "leads": 9,
-      "lpv": 417,
-      "cpl": 314.3
+      "lpv": 493,
+      "cpl": 343.31
     },
     {
       "ad": "ad02_img_mesmoerro",
-      "spend": 1650.69,
+      "spend": 1730.83,
       "leads": 5,
-      "lpv": 196,
-      "cpl": 330.14
+      "lpv": 224,
+      "cpl": 346.17
     },
     {
       "ad": "ad04_img_enamedmaisproximo",
-      "spend": 1165.96,
+      "spend": 1237.96,
       "leads": 4,
-      "lpv": 186,
-      "cpl": 291.49
+      "lpv": 214,
+      "cpl": 309.49
     },
     {
       "ad": "ad07_vid_fernanda",
-      "spend": 962.82,
-      "leads": 6,
-      "lpv": 79,
-      "cpl": 160.47
+      "spend": 1136.46,
+      "leads": 7,
+      "lpv": 94,
+      "cpl": 162.35
+    },
+    {
+      "ad": "ad06_video_luigi",
+      "spend": 1095.86,
+      "leads": 0,
+      "lpv": 111,
+      "cpl": null
     },
     {
       "ad": "ad03_img_dataenamed",
@@ -189,13 +205,6 @@
       "cpl": 312.55
     },
     {
-      "ad": "ad06_video_luigi",
-      "spend": 892.86,
-      "leads": 0,
-      "lpv": 84,
-      "cpl": null
-    },
-    {
       "ad": "ad07_video_enamed_v1",
       "spend": 83.81,
       "leads": 0,
@@ -203,9 +212,16 @@
       "cpl": null
     },
     {
-      "ad": "ad06_video_enamed_luigi",
+      "ad": "ad05_img_descubracomotransformar — Cópia",
       "spend": 0,
       "leads": 1,
+      "lpv": 0,
+      "cpl": 0.0
+    },
+    {
+      "ad": "ad06_video_enamed_luigi",
+      "spend": 0,
+      "leads": 2,
       "lpv": 0,
       "cpl": 0.0
     }
