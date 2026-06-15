@@ -12,18 +12,18 @@
     "total": 390
   },
   "kpis": {
-    "inscritos": 196,
-    "leads_pagos": 169,
-    "organico": 27,
-    "medicos": 187,
-    "pct_medico": 95.4,
+    "inscritos": 203,
+    "leads_pagos": 172,
+    "organico": 31,
+    "medicos": 194,
+    "pct_medico": 95.6,
     "spend": 22794.74,
     "impressions": 707710,
     "clicks": 4401,
     "lpv": 2700,
-    "cpl_real": 134.88,
+    "cpl_real": 132.53,
     "cpc": 5.18,
-    "conv_lpv_lead": 6.3,
+    "conv_lpv_lead": 6.4,
     "pct_budget_gasto": 73.5
   },
   "pace": {
@@ -31,10 +31,10 @@
     "paid_per_day": 15.7,
     "total_per_day": 18.2,
     "spend_per_day": 2248.18,
-    "need_paid_per_day": 35.5,
+    "need_paid_per_day": 34.0,
     "budget_per_day_needed": 4102.63,
-    "proj_paid": 200,
-    "proj_total": 232,
+    "proj_paid": 203,
+    "proj_total": 239,
     "proj_spend": 27291.1,
     "on_track_leads": false,
     "on_track_cpl": false
@@ -132,11 +132,11 @@
     },
     {
       "day": "2026-06-15",
-      "leads_paid": 12,
-      "leads_total": 14,
+      "leads_paid": 15,
+      "leads_total": 21,
       "spend": 312.94,
-      "cum_paid": 169,
-      "cum_total": 196,
+      "cum_paid": 172,
+      "cum_total": 203,
       "cum_spend": 22794.74
     }
   ],
@@ -158,9 +158,9 @@
     {
       "ad": "ad08_carr_nogourmet",
       "spend": 3253.26,
-      "leads": 54,
+      "leads": 57,
       "lpv": 310,
-      "cpl": 60.25
+      "cpl": 57.07
     },
     {
       "ad": "ad05_img_descubracomotransformar",
