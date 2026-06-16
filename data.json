@@ -12,18 +12,18 @@
     "total": 390
   },
   "kpis": {
-    "inscritos": 254,
-    "leads_pagos": 211,
-    "organico": 43,
-    "medicos": 242,
-    "pct_medico": 95.3,
+    "inscritos": 265,
+    "leads_pagos": 215,
+    "organico": 50,
+    "medicos": 252,
+    "pct_medico": 95.1,
     "spend": 27277.58,
     "impressions": 900317,
     "clicks": 5182,
     "lpv": 3216,
-    "cpl_real": 129.28,
+    "cpl_real": 126.87,
     "cpc": 5.26,
-    "conv_lpv_lead": 6.6,
+    "conv_lpv_lead": 6.7,
     "pct_budget_gasto": 88.0
   },
   "pace": {
@@ -31,13 +31,13 @@
     "paid_per_day": 17.5,
     "total_per_day": 21.3,
     "spend_per_day": 2422.7,
-    "need_paid_per_day": 29.0,
+    "need_paid_per_day": 25.0,
     "budget_per_day_needed": 3722.42,
-    "proj_paid": 228,
-    "proj_total": 275,
+    "proj_paid": 232,
+    "proj_total": 286,
     "proj_spend": 29700.28,
     "on_track_leads": false,
-    "on_track_cpl": false
+    "on_track_cpl": true
   },
   "series": [
     {
@@ -141,11 +141,11 @@
     },
     {
       "day": "2026-06-16",
-      "leads_paid": 19,
-      "leads_total": 20,
+      "leads_paid": 23,
+      "leads_total": 31,
       "spend": 627.88,
-      "cum_paid": 211,
-      "cum_total": 254,
+      "cum_paid": 215,
+      "cum_total": 265,
       "cum_spend": 27277.58
     }
   ],
@@ -153,23 +153,23 @@
     {
       "ad": "ad01_img_aristoacertou",
       "spend": 6221.01,
-      "leads": 29,
+      "leads": 30,
       "lpv": 736,
-      "cpl": 214.52
+      "cpl": 207.37
     },
     {
       "ad": "ad06_vid_luigi",
       "spend": 5639.16,
-      "leads": 68,
+      "leads": 69,
       "lpv": 657,
-      "cpl": 82.93
+      "cpl": 81.73
     },
     {
       "ad": "ad08_carr_nogourmet",
       "spend": 4135.42,
-      "leads": 76,
+      "leads": 77,
       "lpv": 422,
-      "cpl": 54.41
+      "cpl": 53.71
     },
     {
       "ad": "ad05_img_descubracomotransformar",
@@ -230,7 +230,7 @@
     {
       "ad": "ad06_video_enamed_luigi",
       "spend": 0,
-      "leads": 5,
+      "leads": 6,
       "lpv": 0,
       "cpl": 0.0
     }
