@@ -12,18 +12,18 @@
     "total": 390
   },
   "kpis": {
-    "inscritos": 265,
-    "leads_pagos": 215,
-    "organico": 50,
-    "medicos": 252,
-    "pct_medico": 95.1,
+    "inscritos": 276,
+    "leads_pagos": 220,
+    "organico": 56,
+    "medicos": 263,
+    "pct_medico": 95.3,
     "spend": 27277.58,
     "impressions": 900317,
     "clicks": 5182,
     "lpv": 3216,
-    "cpl_real": 126.87,
+    "cpl_real": 123.99,
     "cpc": 5.26,
-    "conv_lpv_lead": 6.7,
+    "conv_lpv_lead": 6.8,
     "pct_budget_gasto": 88.0
   },
   "pace": {
@@ -31,10 +31,10 @@
     "paid_per_day": 17.5,
     "total_per_day": 21.3,
     "spend_per_day": 2422.7,
-    "need_paid_per_day": 25.0,
+    "need_paid_per_day": 20.0,
     "budget_per_day_needed": 3722.42,
-    "proj_paid": 232,
-    "proj_total": 286,
+    "proj_paid": 237,
+    "proj_total": 297,
     "proj_spend": 29700.28,
     "on_track_leads": false,
     "on_track_cpl": true
@@ -141,11 +141,11 @@
     },
     {
       "day": "2026-06-16",
-      "leads_paid": 23,
-      "leads_total": 31,
+      "leads_paid": 28,
+      "leads_total": 42,
       "spend": 627.88,
-      "cum_paid": 215,
-      "cum_total": 265,
+      "cum_paid": 220,
+      "cum_total": 276,
       "cum_spend": 27277.58
     }
   ],
@@ -153,9 +153,9 @@
     {
       "ad": "ad01_img_aristoacertou",
       "spend": 6221.01,
-      "leads": 30,
+      "leads": 31,
       "lpv": 736,
-      "cpl": 207.37
+      "cpl": 200.68
     },
     {
       "ad": "ad06_vid_luigi",
@@ -167,9 +167,9 @@
     {
       "ad": "ad08_carr_nogourmet",
       "spend": 4135.42,
-      "leads": 77,
+      "leads": 79,
       "lpv": 422,
-      "cpl": 53.71
+      "cpl": 52.35
     },
     {
       "ad": "ad05_img_descubracomotransformar",
@@ -221,16 +221,16 @@
       "cpl": null
     },
     {
-      "ad": "ad05_img_descubracomotransformar — Cópia",
+      "ad": "ad06_video_enamed_luigi",
       "spend": 0,
-      "leads": 2,
+      "leads": 6,
       "lpv": 0,
       "cpl": 0.0
     },
     {
-      "ad": "ad06_video_enamed_luigi",
+      "ad": "ad05_img_descubracomotransformar — Cópia",
       "spend": 0,
-      "leads": 6,
+      "leads": 4,
       "lpv": 0,
       "cpl": 0.0
     }
