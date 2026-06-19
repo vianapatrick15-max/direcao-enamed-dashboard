@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-18T12:00:00",
-  "today": "2026-06-18",
+  "updated_at": "2026-06-19T12:00:00",
+  "today": "2026-06-19",
   "event_date": "2026-06-16",
   "campaign_start": "2026-06-05",
   "days_left": 0,
@@ -27,16 +27,16 @@
     "pct_budget_gasto": 100.8
   },
   "pace": {
-    "full_days": 13,
-    "paid_per_day": 17.2,
-    "total_per_day": 22.2,
-    "spend_per_day": 2404.75,
+    "full_days": 14,
+    "paid_per_day": 15.9,
+    "total_per_day": 20.6,
+    "spend_per_day": 2232.98,
     "need_paid_per_day": 17.0,
     "budget_per_day_needed": -261.77,
-    "proj_paid": 240,
-    "proj_total": 310,
-    "proj_spend": 33666.52,
-    "on_track_leads": true,
+    "proj_paid": 239,
+    "proj_total": 309,
+    "proj_spend": 33494.75,
+    "on_track_leads": false,
     "on_track_cpl": false
   },
   "series": [
@@ -152,6 +152,15 @@
       "day": "2026-06-17",
       "leads_paid": 0,
       "leads_total": 2,
+      "spend": 0.0,
+      "cum_paid": 223,
+      "cum_total": 288,
+      "cum_spend": 31261.77
+    },
+    {
+      "day": "2026-06-18",
+      "leads_paid": 0,
+      "leads_total": 0,
       "spend": 0.0,
       "cum_paid": 223,
       "cum_total": 288,
