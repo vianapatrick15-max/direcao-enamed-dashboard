@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T12:00:00",
-  "today": "2026-06-20",
+  "updated_at": "2026-06-21T12:00:00",
+  "today": "2026-06-21",
   "event_date": "2026-06-16",
   "campaign_start": "2026-06-05",
   "days_left": 0,
@@ -27,15 +27,15 @@
     "pct_budget_gasto": 100.8
   },
   "pace": {
-    "full_days": 14,
-    "paid_per_day": 15.9,
-    "total_per_day": 20.6,
-    "spend_per_day": 2232.98,
+    "full_days": 15,
+    "paid_per_day": 14.9,
+    "total_per_day": 19.2,
+    "spend_per_day": 2084.12,
     "need_paid_per_day": 17.0,
     "budget_per_day_needed": -261.77,
-    "proj_paid": 239,
-    "proj_total": 309,
-    "proj_spend": 33494.75,
+    "proj_paid": 238,
+    "proj_total": 307,
+    "proj_spend": 33345.89,
     "on_track_leads": false,
     "on_track_cpl": false
   },
@@ -165,6 +165,15 @@
       "cum_paid": 223,
       "cum_total": 288,
       "cum_spend": 31261.77
+    },
+    {
+      "day": "2026-06-20",
+      "leads_paid": 0,
+      "leads_total": 0,
+      "spend": 0.0,
+      "cum_paid": 223,
+      "cum_total": 288,
+      "cum_spend": 31261.77
     }
   ],
   "ads": [
@@ -239,16 +248,16 @@
       "cpl": null
     },
     {
-      "ad": "ad06_video_enamed_luigi",
+      "ad": "ad05_img_descubracomotransformar — Cópia",
       "spend": 0,
-      "leads": 7,
+      "leads": 4,
       "lpv": 0,
       "cpl": 0.0
     },
     {
-      "ad": "ad05_img_descubracomotransformar — Cópia",
+      "ad": "ad06_video_enamed_luigi",
       "spend": 0,
-      "leads": 4,
+      "leads": 7,
       "lpv": 0,
       "cpl": 0.0
     }
