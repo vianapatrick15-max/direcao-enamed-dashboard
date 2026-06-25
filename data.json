@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T12:00:00",
-  "today": "2026-06-24",
+  "updated_at": "2026-06-25T12:00:00",
+  "today": "2026-06-25",
   "event_date": "2026-06-16",
   "campaign_start": "2026-06-05",
   "days_left": 0,
@@ -12,30 +12,30 @@
     "total": 390
   },
   "kpis": {
-    "inscritos": 288,
-    "leads_pagos": 223,
+    "inscritos": 289,
+    "leads_pagos": 224,
     "organico": 65,
-    "medicos": 273,
+    "medicos": 274,
     "pct_medico": 94.8,
     "spend": 31261.77,
     "impressions": 1110658,
     "clicks": 5930,
     "lpv": 3710,
-    "cpl_real": 140.19,
+    "cpl_real": 139.56,
     "cpc": 5.27,
     "conv_lpv_lead": 6.0,
     "pct_budget_gasto": 100.8
   },
   "pace": {
-    "full_days": 15,
-    "paid_per_day": 14.9,
-    "total_per_day": 19.2,
-    "spend_per_day": 2084.12,
-    "need_paid_per_day": 17.0,
+    "full_days": 16,
+    "paid_per_day": 14.0,
+    "total_per_day": 18.1,
+    "spend_per_day": 1953.86,
+    "need_paid_per_day": 16.0,
     "budget_per_day_needed": -261.77,
     "proj_paid": 238,
     "proj_total": 307,
-    "proj_spend": 33345.89,
+    "proj_spend": 33215.63,
     "on_track_leads": false,
     "on_track_cpl": false
   },
@@ -174,6 +174,15 @@
       "cum_paid": 223,
       "cum_total": 288,
       "cum_spend": 31261.77
+    },
+    {
+      "day": "2026-06-24",
+      "leads_paid": 1,
+      "leads_total": 1,
+      "spend": 0.0,
+      "cum_paid": 224,
+      "cum_total": 289,
+      "cum_spend": 31261.77
     }
   ],
   "ads": [
@@ -248,16 +257,16 @@
       "cpl": null
     },
     {
-      "ad": "ad05_img_descubracomotransformar — Cópia",
+      "ad": "ad06_video_enamed_luigi",
       "spend": 0,
-      "leads": 4,
+      "leads": 7,
       "lpv": 0,
       "cpl": 0.0
     },
     {
-      "ad": "ad06_video_enamed_luigi",
+      "ad": "ad05_img_descubracomotransformar — Cópia",
       "spend": 0,
-      "leads": 7,
+      "leads": 5,
       "lpv": 0,
       "cpl": 0.0
     }
