@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T12:00:00",
-  "today": "2026-06-28",
+  "updated_at": "2026-06-29T12:00:00",
+  "today": "2026-06-29",
   "event_date": "2026-06-16",
   "campaign_start": "2026-06-05",
   "days_left": 0,
@@ -257,16 +257,16 @@
       "cpl": null
     },
     {
-      "ad": "ad06_video_enamed_luigi",
+      "ad": "ad05_img_descubracomotransformar — Cópia",
       "spend": 0,
-      "leads": 7,
+      "leads": 5,
       "lpv": 0,
       "cpl": 0.0
     },
     {
-      "ad": "ad05_img_descubracomotransformar — Cópia",
+      "ad": "ad06_video_enamed_luigi",
       "spend": 0,
-      "leads": 5,
+      "leads": 7,
       "lpv": 0,
       "cpl": 0.0
     }
